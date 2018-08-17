@@ -1,6 +1,4 @@
-# Oyente
-
-**Note: The project has been moved to the new repo https://github.com/melonproject/oyente**
+# Oyente NG
 
 ## Quick Start
 
